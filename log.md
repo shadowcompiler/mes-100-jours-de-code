@@ -1,21 +1,62 @@
 # 100 Jours de Code - Log
 
-### Jour 0: 26 Février 2016
-##### (supprimer ou commenter l'exemple)
+### Jour 1: 10 avril 2016
 
-**Progrès**: Correction du CSS, avancement de la fonctionnalité canvas dans l'app
+**Progrès**: upload de fichiers avec multer.
 
-**Pensées**: J'ai vraiment bataillé avec le CSS, mais, dans l'ensemble, j'ai l'impression que je commence à m'améliorer. Canvas est encore un concept nouveau pour moi, mais j'ai réussi à comprendre des fonctionnalités de base.
+**Pensées**: Super contente de recommencer un round de 100 jours! Pour ce défi, je ne compterai pas ce que je fais à l'école ou les devoirs à la maison. JE compterai ce que j'apprends en plus des cours, les challenges d'algo et le travail sur les side-projects.
 
-**Lien vers les travaux**: [Calculator App](http://www.example.com)
+**Lien vers les travaux**: [tweet j1](https://twitter.com/aurelieBayre/status/983822151361888256)
 
-### Jour 1: 27 février 2016
-##### (supprimer ou commenter l'exemple)
+### Jour 2: 11 avril 2016
 
-**Progrès**: J'ai complété des exercices surFreeCodeCamp.
+**Progrès**: soirée debug  sur un formulaire qui ne renvoyait pas de données. 
+Lecture: les [foreign keys de sqlite](https://t.co/f7gfZdCZ1y) 
 
-**Pensées**: J'ai commencé à coder récemment, et c'est vraiment super quand je parviens à résoudre un exercice d'algorithme après de nombreux essais et des heures passées dessus.
+**Pensées**: Le debugging: ce n'était pas grand chose, mais il a fallu que je prenne une pause pour rafraichir mon cerveau, et à partir de là j'ai rapidement capté où était l'erreur.
 
-**Liens vers les travaux**:
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) 
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) 
+**Lien vers les travaux**: [tweet j2](https://twitter.com/aurelieBayre/status/984186198896922624)
+
+### Jour 3: 12 avril 2016
+
+**Progrès**: préparation pour créer le bot twitter. C'est un projet que je réaliserai avec un camarade de classe.
+J'ai résolu quelques algorithmes sur codewars, j'adore cette plateforme.
+
+**Pensées**: je suis 4 kyu sur codewars. je sens que j'ai atteint un plateau, je ne progresse plus aussi vite qu'avant... Il est temps que j'étudie à nouveau minutieusement les solutions des challenges débloqués pour apprendre de nouvelles pratiques et façons de décortiquer un problème.
+
+**Lien vers les travaux**: [tweet j3](https://twitter.com/aurelieBayre/status/984541049128456192)
+
+*pas de code en plus de l'école ce vendredi 13 avril. J'ai travaillé autrement: j'ai fait une [présentation en classe](https://twitter.com/aurelieBayre/status/984767483730190336) au sujet des #100JoursDeCode*
+
+### Jour 4: 14 avril 2016
+
+**Progrès**: plusieurs katas sur codewars + lecture du mostly adequate guide (prog fonctionnelle) + commencé le bot twitter.
+
+**Pensées**: j'adore le programmation fonctionnelle. En fait j'aime bien la sensation de mon cerveau quand je l'oblige à penser d'une façon inhabituelle.
+
+**Lien vers les travaux**: [tweet j4](https://twitter.com/aurelieBayre/status/985268144146182144)
+
+### Jour 5: 15 avril 2016
+
+**Progrès**: encore des katas, j'arrive à 950 points.
+
+**Pensées**: je mets en place une nouvelle méthode pour les katas: je fais deux colonnes: une colonne étape, et une colonne outils. Je remplis d'abord la colonne étape, et ensuite j'inscris les outils devant la case correspondante. Comme ça je réfléchis au maximum avant de penser.
+J'ai commencé un cours sur Vue.js (sur udemy)
+
+**Lien vers les travaux**: [tweet j5](https://twitter.com/aurelieBayre/status/985618375543083016)
+
+### Jour 6: 16 avril 2016
+
+**Progrès**: refactorisation du projet superheroes issu de mon premier hackathon. 
+* j'ai rajouté les images sur les cartes adversaires, 
+* j'ai nettoyé tous les console.log, 
+* j'ai arrangé le responsiveness des images jumbotron, 
+* j'ai commencé à m'occuper du centrage sur la page d'accueil.
+
+**Pensées**: 
+c'est impressionant (= overwhelming) de rependre cette masse "de code de hackathon" (= code cradouille) Mais finalement j'arrive à m'y retrouver. 
+Il reste pas mal de chose à faire. J'ai besoin d'établir une liste de tâches.
+
+**Lien vers les travaux**: [pull request vers master](https://github.com/WildCodeSchool/reims-0218-hackaton-APA/pull/2)
+
+
