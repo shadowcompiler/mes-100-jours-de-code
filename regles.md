@@ -3,8 +3,7 @@
 ## Engagement principal
 ### *Je coderai au moins une heure par jour pendant les 100 prochains jours.*
 
-#### Date de départ
-25 juin 2016. [Inscrivez votre propre date ici]
+#### Date de départ : *10 avril 2018*
 
 ## Règles supplémentaires
 1. Je twitterai mes progrès chaque jour -> en utilisant le hashtag #100JoursDeCode 
