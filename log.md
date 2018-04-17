@@ -38,7 +38,7 @@ J'ai résolu quelques algorithmes sur codewars, j'adore cette plateforme.
 
 ### Jour 5: 15 avril 2016
 
-**Progrès**: encore des katas, j'arrive à 950 points.
+**Progrès**: encore des katas, j'arrive à 950 points.Objectif: être à 1000 points dimanche prochain.
 
 **Pensées**: je mets en place une nouvelle méthode pour les katas: je fais deux colonnes: une colonne étape, et une colonne outils. Je remplis d'abord la colonne étape, et ensuite j'inscris les outils devant la case correspondante. Comme ça je réfléchis au maximum avant de penser.
 J'ai commencé un cours sur Vue.js (sur udemy)
@@ -63,7 +63,7 @@ Il reste pas mal de chose à faire. J'ai besoin d'établir une liste de tâches.
 
 **Progrès**: 
 * implémentation de mocha dans le navigateur
-* quelques katas ce matin
+* quelques katas ce matin (971 points)
 
 **Pensées**: 
 Ca devient un peu dur avec les allergies au pollen, j'ai envie de me coucher rapido pour ne plus rien sentir. Mais j'ai tenu bon quand même et je suis contente même si je n'ai pas fini tous les tests que je voulais faire ce soir.
