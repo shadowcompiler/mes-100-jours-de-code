@@ -59,4 +59,15 @@ Il reste pas mal de chose à faire. J'ai besoin d'établir une liste de tâches.
 
 **Lien vers les travaux**: [pull request vers master](https://github.com/WildCodeSchool/reims-0218-hackaton-APA/pull/2)
 
+### Jour 7: 17 avril 2016
+
+**Progrès**: 
+* implémentation de mocha dans le navigateur
+* quelques katas ce matin
+
+**Pensées**: 
+Ca devient un peu dur avec les allergies au pollen, j'ai envie de me coucher rapido pour ne plus rien sentir. Mais j'ai tenu bon quand même et je suis contente même si je n'ai pas fini tous les tests que je voulais faire ce soir.
+
+**Lien vers les travaux**: [les commits pour mocha](https://github.com/WildCodeSchool/reims-0218-artezicreloaded/commits/add-id-wilder-newplaylist)
+
 
