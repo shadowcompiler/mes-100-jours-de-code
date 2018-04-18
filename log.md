@@ -70,4 +70,12 @@ Ca devient un peu dur avec les allergies au pollen, j'ai envie de me coucher rap
 
 **Lien vers les travaux**: [les commits pour mocha](https://github.com/WildCodeSchool/reims-0218-artezicreloaded/commits/add-id-wilder-newplaylist)
 
+### Jour 8: 18 avril 2016
+
+**Progrès**: 
+* code wars, euh très petite progression, 977. Je suis resté bloquée sur un exercice, du coup je finis par un facile pour conclure malgré tout sur une touche positive. 
+
+**Pensées**: 
+J'ai passé une très mauvaise journée avec de la fièvre et des courbatures, mon cerveau est au ralenti. Ca ira mieux dans quelques jours!
+
 
