@@ -78,4 +78,19 @@ Ca devient un peu dur avec les allergies au pollen, j'ai envie de me coucher rap
 **Pensées**: 
 J'ai passé une très mauvaise journée avec de la fièvre et des courbatures, mon cerveau est au ralenti. Ca ira mieux dans quelques jours!
 
+### Jour 9: 20 avril 2016
 
+**Progrès**: 
+* kata sur codewars.
+
+**Pensées**: 
+Pas de code hier, je finissais mon exposé sur les ordinateurs quantiques. Petite forme, toujours de la fièvre, je me suis endormie sur l'ordi.
+
+### Jour 9: 22 avril 2016
+
+**Progrès**: 
+* VueJS : un exercice sur le cours udemy, avec interpolation et v-bind. 
+* codewars : ça y est, j'ai atteint mon objectif de 1000 points! Maintenant, j'aimerais faire davantage de katas 4eme kyu.
+
+**Pensées**: 
+Hier pas de code: repos sur ordre du médecin. j'ai une otite et je suis très fatiguée. je n'ai quand même pas pu m'empêcher de coder aujourd'hui.
