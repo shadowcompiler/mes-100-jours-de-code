@@ -90,7 +90,7 @@ Pas de code hier, je finissais mon exposé sur les ordinateurs quantiques. Petit
 
 **Progrès**: 
 * VueJS : un exercice sur le cours udemy, avec interpolation et v-bind. 
-[[https://github.com/AurelieBayre/mes-100-jours-de-code/blob/master/img/vue1.png|al='exercice vue.js: interpolation et v-bind']]
+![exercice vue.js: interpolation et v-bind](/img/vue1.png)
 * codewars : ça y est, j'ai atteint mon objectif de 1000 points! Maintenant, j'aimerais faire davantage de katas 4eme kyu.
 
 **Pensées**: 
