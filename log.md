@@ -86,7 +86,7 @@ J'ai passé une très mauvaise journée avec de la fièvre et des courbatures, m
 **Pensées**: 
 Pas de code hier, je finissais mon exposé sur les ordinateurs quantiques. Petite forme, toujours de la fièvre, je me suis endormie sur l'ordi.
 
-### Jour 9: 22 avril 2016
+### Jour 10: 22 avril 2016
 
 **Progrès**: 
 * VueJS : un exercice sur le cours udemy, avec interpolation et v-bind. 
@@ -95,3 +95,13 @@ Pas de code hier, je finissais mon exposé sur les ordinateurs quantiques. Petit
 
 **Pensées**: 
 Hier pas de code: repos sur ordre du médecin. j'ai une otite et je suis très fatiguée. je n'ai quand même pas pu m'empêcher de coder aujourd'hui.
+
+### Jour 11: 23 avril 2016
+
+**Progrès**: 
+* un kata 4eme kyu! (url params). J'ai travaillé dessus à midi et ce soir. La solution la plus courte proposait d'utiliser replace avec un callback, il faut que j'étudie ça car je ne l'ai encore jamais utilisé ainsi.
+* lecture sur vuejs dans le bus
+
+**Pensées**: 
+* Il me faudrait un petit projet d'assimilation en vuejs et un autre pour react.
+* C'est parfois difficile de trouver 1h de code en plus de l'école + des devoirs et de dormir suffisamment. Là je suis contente, je vais pouvoir me coucher tôt. J'aimerais bien trouver le temps pour finir mon article sur les 100jours de code aussi!!
