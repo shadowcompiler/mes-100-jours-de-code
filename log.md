@@ -105,3 +105,16 @@ Hier pas de code: repos sur ordre du médecin. j'ai une otite et je suis très f
 **Pensées**: 
 * Il me faudrait un petit projet d'assimilation en vuejs et un autre pour react.
 * C'est parfois difficile de trouver 1h de code en plus de l'école + des devoirs et de dormir suffisamment. Là je suis contente, je vais pouvoir me coucher tôt. J'aimerais bien trouver le temps pour finir mon article sur les 100jours de code aussi!!
+
+### Jour 12: 24 avril 2016
+
+**Progrès**: 
+* un exercice sur les events et les event modifiers.
+* j'ai commencé un tableau pour rassembler des ressources, à partager avec mes 2 camarades qui apprennent Vue.
+
+**Pensées**: 
+* J'ai passé pas mal de temps sur les ressources, dans le but de trouver un projet à développer mais je n'ai pas encore trouvé. 
+* je crois que pour le moment c'est bien si je me concentre sur le cours Vue pendant mon heure de code en plus de l'école. Pour expliquer: je n'apprends pas Vue à l'école, mais par moi-même, en vue de l'utiliser pour le "Projet 3" (= troisième projet d'école, réalisé au sein d'une entreprise).
+
+**liens:**
+[exercice](https://gist.github.com/AurelieBayre/288ae61585da37171c3d02741c17bd8b) , [trello](https://trello.com/b/YtgktdY7/vuejs)
