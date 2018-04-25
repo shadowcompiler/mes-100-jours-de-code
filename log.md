@@ -4,7 +4,7 @@
 
 **Progrès**: upload de fichiers avec multer.
 
-**Pensées**: Super contente de recommencer un round de 100 jours! Pour ce défi, je ne compterai pas ce que je fais à l'école ou les devoirs à la maison. JE compterai ce que j'apprends en plus des cours, les challenges d'algo et le travail sur les side-projects.
+**Pensées**: Super contente de recommencer un round de 100 jours! Pour ce défi, je ne compterai pas ce que je fais à l'école ou les devoirs à la maison. Je compterai ce que j'apprends en plus des cours: les challenges d'algo et le travail sur les side-projects.
 
 **Lien vers les travaux**: [tweet j1](https://twitter.com/aurelieBayre/status/983822151361888256)
 
