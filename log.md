@@ -118,3 +118,17 @@ Hier pas de code: repos sur ordre du médecin. j'ai une otite et je suis très f
 
 **liens:**
 [exercice](https://gist.github.com/AurelieBayre/288ae61585da37171c3d02741c17bd8b) , [trello](https://trello.com/b/YtgktdY7/vuejs)
+
+### Jour 13: 25 avril 2016
+
+**Progrès**: 
+* exercice Vue: propriétés réactive.
+* dynamic styling
+
+
+**Pensées**: 
+* je retiens définitivement mieux quand je prends des notes! Ce serait bien que je prenne du temps demain midi pour revoir ce que j'ai appris aujourd'hui.
+* Vue offre des possibilités super articulées, j'aime bien.
+
+**lien:**
+[exercice](https://gist.github.com/AurelieBayre/35c4307fcb7b77a2d0859d99020ce004) 
