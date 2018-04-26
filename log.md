@@ -125,10 +125,26 @@ Hier pas de code: repos sur ordre du médecin. j'ai une otite et je suis très f
 * exercice Vue: propriétés réactive.
 * dynamic styling
 
-
 **Pensées**: 
 * je retiens définitivement mieux quand je prends des notes! Ce serait bien que je prenne du temps demain midi pour revoir ce que j'ai appris aujourd'hui.
 * Vue offre des possibilités super articulées, j'aime bien.
 
 **lien:**
 [exercice](https://gist.github.com/AurelieBayre/35c4307fcb7b77a2d0859d99020ce004) 
+
+
+### Jour 14: 26 avril 2016
+
+**Progrès**: 
+* J'ai adapté nos tables et fait une requête sqlite pour implémenter le système de vote.
+* j'ai adapté la page résultat du concours pour correspondre au nouvel objet reçu 
+
+**Pensées**: 
+* Exceptionnellement aujourd'hui, j'ai retravaillé sur le projet de classe car nous sommes en fin de sprint et presqu'en fin de projet alors nous avons une démo importante demain. Or des fonctionnalités prioritaires n'étaient pas encore terminées et je voudrais qu'on puisse les montrer demain.
+Il manque l'authentification - réalisée à plus de 50% - qui sera importante notamment pour les votes car un utilisateur ne peut pas voter 2 fois ou plus pour une même playlist.
+* je suis plutôt satisfaite de ma contribution sur ce projet:
+![insights github pour le projet 2](/img/insightsGithubProjet2.png)
+
+**lien:**
+[pr](https://github.com/WildCodeSchool/reims-0218-artezicreloaded/pull/38) 
+
