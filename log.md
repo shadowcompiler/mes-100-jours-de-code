@@ -148,3 +148,16 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 **lien:**
 [pr](https://github.com/WildCodeSchool/reims-0218-artezicreloaded/pull/38) 
 
+### Jour 15: 27 avril 2016
+
+**Progrès**: 
+* J'ai fini la partie authentification. 
+* Les votes de plusieurs utilisateurs différents s'additionnent! 
+* 2 petits katas pour fêter ça
+
+**Pensées**: 
+* Pour la fonction authentification, j'ai rrepris et terminé le travail de quelqu'un d'autre. Je n'ai donc pas suivi mon processus habituel, puisque j'ai sauté dans le train en cours de route. C'était donc en soi une gymnastique intellectuel pour prendre mes repères dans l'écriture d'un autre. Il y a bien sûr des perfectionnements à faire mais l'essentiel est là.
+
+**lien:**
+[mes derniers commits sur cette branche](https://github.com/WildCodeSchool/reims-0218-artezicreloaded/commits/user-can-vote) 
+
