@@ -161,3 +161,14 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 **lien:**
 [mes derniers commits sur cette branche](https://github.com/WildCodeSchool/reims-0218-artezicreloaded/commits/user-can-vote) 
 
+### Jour 16: 28 avril 2016
+
+**Progrès**: 
+* J'ai commencé à coder un pong avec un copain. On veut le faire en Vue mais on commence par faire un brouillon en pur javascript.
+* pour l'instant je m'occupe du paddle (avec du canvas) et du mouvement du paddle (keydown)
+
+**Pensées**: 
+* C'est très marrant! On a des idées pour faire des petites surprises aux joueurs ^^
+
+**lien:**
+[branche paddle moves](https://github.com/AurelieBayre/pong-reloaded/tree/paddle-moves) 
