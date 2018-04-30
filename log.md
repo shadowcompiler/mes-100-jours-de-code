@@ -172,3 +172,21 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 
 **lien:**
 [branche paddle moves](https://github.com/AurelieBayre/pong-reloaded/tree/paddle-moves) 
+
+### Jour 17: 29 avril 2016
+
+**Progrès**: 
+* Les fonctionnalités minimales du pong sont terminées, on peut jouer!
+
+**lien:**
+[Papi et Mira testent Pong](https://www.instagram.com/p/BiKl6sVhu_8/) 
+ 
+### Jour 18: 30 avril 2016
+
+**Progrès**: 
+* J'ai commencé à refactorer le code du Pong et je l'ai rangé en modules ES6.
+* cours sur Vue, dynamic styling.
+
+**Pensées**
+* j'ai vraiment besoin de me faire des fiches au début!
+
