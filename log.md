@@ -190,3 +190,19 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 **Pensées**
 * j'ai vraiment besoin de me faire des fiches au début!
 
+### Jour 19:  1er mai 2016
+
+**Progrès**: 
+* J'ai commencé à refactorer le code du Pong et je l'ai rangé en modules ES6.
+* cours sur Vue, dynamic styling.
+
+**Pensées**
+* j'ai vraiment besoin de me faire des fiches au début!
+
+### Jour 20:  2 mai 2016
+
+**Progrès**: 
+* J'ai réparé la fonctionnalité score - qui affecte les paddle et qui dépend de la ball. Quand j'ai fait mes modules cette fonctionnalité s'est cassée. 
+
+**Pensées**
+* Visualiser les modules comme des étages m'a aidée à trouver la solution.
