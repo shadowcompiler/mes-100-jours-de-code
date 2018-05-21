@@ -1,6 +1,6 @@
 # 100 Jours de Code - Log
 
-### Jour 1: 10 avril 2016
+### Jour 1: 10 avril 2018
 
 **Progrès**: upload de fichiers avec multer.
 
@@ -8,7 +8,7 @@
 
 **Lien vers les travaux**: [tweet j1](https://twitter.com/aurelieBayre/status/983822151361888256)
 
-### Jour 2: 11 avril 2016
+### Jour 2: 11 avril 2018
 
 **Progrès**: soirée debug  sur un formulaire qui ne renvoyait pas de données. 
 Lecture: les [foreign keys de sqlite](https://t.co/f7gfZdCZ1y) 
@@ -17,7 +17,7 @@ Lecture: les [foreign keys de sqlite](https://t.co/f7gfZdCZ1y)
 
 **Lien vers les travaux**: [tweet j2](https://twitter.com/aurelieBayre/status/984186198896922624)
 
-### Jour 3: 12 avril 2016
+### Jour 3: 12 avril 2018
 
 **Progrès**: préparation pour créer le bot twitter. C'est un projet que je réaliserai avec un camarade de classe.
 J'ai résolu quelques algorithmes sur codewars, j'adore cette plateforme.
@@ -28,7 +28,7 @@ J'ai résolu quelques algorithmes sur codewars, j'adore cette plateforme.
 
 *pas de code en plus de l'école ce vendredi 13 avril. J'ai travaillé autrement: j'ai fait une [présentation en classe](https://twitter.com/aurelieBayre/status/984767483730190336) au sujet des #100JoursDeCode*
 
-### Jour 4: 14 avril 2016
+### Jour 4: 14 avril 2018
 
 **Progrès**: plusieurs katas sur codewars + lecture du mostly adequate guide (prog fonctionnelle) + commencé le bot twitter.
 
@@ -36,7 +36,7 @@ J'ai résolu quelques algorithmes sur codewars, j'adore cette plateforme.
 
 **Lien vers les travaux**: [tweet j4](https://twitter.com/aurelieBayre/status/985268144146182144)
 
-### Jour 5: 15 avril 2016
+### Jour 5: 15 avril 2018
 
 **Progrès**: encore des katas, j'arrive à 950 points.Objectif: être à 1000 points dimanche prochain.
 
@@ -45,7 +45,7 @@ J'ai commencé un cours sur Vue.js (sur udemy)
 
 **Lien vers les travaux**: [tweet j5](https://twitter.com/aurelieBayre/status/985618375543083016)
 
-### Jour 6: 16 avril 2016
+### Jour 6: 16 avril 2018
 
 **Progrès**: refactorisation du projet superheroes issu de mon premier hackathon. 
 * j'ai rajouté les images sur les cartes adversaires, 
@@ -59,7 +59,7 @@ Il reste pas mal de chose à faire. J'ai besoin d'établir une liste de tâches.
 
 **Lien vers les travaux**: [pull request vers master](https://github.com/WildCodeSchool/reims-0218-hackaton-APA/pull/2)
 
-### Jour 7: 17 avril 2016
+### Jour 7: 17 avril 2018
 
 **Progrès**: 
 * implémentation de mocha dans le navigateur
@@ -70,7 +70,7 @@ Ca devient un peu dur avec les allergies au pollen, j'ai envie de me coucher rap
 
 **Lien vers les travaux**: [les commits pour mocha](https://github.com/WildCodeSchool/reims-0218-artezicreloaded/commits/add-id-wilder-newplaylist)
 
-### Jour 8: 18 avril 2016
+### Jour 8: 18 avril 2018
 
 **Progrès**: 
 * code wars, euh très petite progression, 977. Je suis resté bloquée sur un exercice, du coup je finis par un facile pour conclure malgré tout sur une touche positive. 
@@ -78,7 +78,7 @@ Ca devient un peu dur avec les allergies au pollen, j'ai envie de me coucher rap
 **Pensées**: 
 J'ai passé une très mauvaise journée avec de la fièvre et des courbatures, mon cerveau est au ralenti. Ca ira mieux dans quelques jours!
 
-### Jour 9: 20 avril 2016
+### Jour 9: 20 avril 2018
 
 **Progrès**: 
 * kata sur codewars.
@@ -86,7 +86,7 @@ J'ai passé une très mauvaise journée avec de la fièvre et des courbatures, m
 **Pensées**: 
 Pas de code hier, je finissais mon exposé sur les ordinateurs quantiques. Petite forme, toujours de la fièvre, je me suis endormie sur l'ordi.
 
-### Jour 10: 22 avril 2016
+### Jour 10: 22 avril 2018
 
 **Progrès**: 
 * VueJS : un exercice sur le cours udemy, avec interpolation et v-bind. 
@@ -96,7 +96,7 @@ Pas de code hier, je finissais mon exposé sur les ordinateurs quantiques. Petit
 **Pensées**: 
 Hier pas de code: repos sur ordre du médecin. j'ai une otite et je suis très fatiguée. je n'ai quand même pas pu m'empêcher de coder aujourd'hui.
 
-### Jour 11: 23 avril 2016
+### Jour 11: 23 avril 2018
 
 **Progrès**: 
 * un kata 4eme kyu! (url params). J'ai travaillé dessus à midi et ce soir. La solution la plus courte proposait d'utiliser replace avec un callback, il faut que j'étudie ça car je ne l'ai encore jamais utilisé ainsi.
@@ -190,7 +190,7 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 **Pensées**
 * j'ai vraiment besoin de me faire des fiches au début!
 
-### Jour 19:  1er mai 2016
+### Jour 19:  1er mai 2018
 
 **Progrès**: 
 * J'ai commencé à refactorer le code du Pong et je l'ai rangé en modules ES6.
@@ -199,7 +199,7 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 **Pensées**
 * j'ai vraiment besoin de me faire des fiches au début!
 
-### Jour 20:  2 mai 2016
+### Jour 20:  2 mai 2018
 
 **Progrès**: 
 * J'ai réparé la fonctionnalité score - qui affecte les paddle et qui dépend de la ball. Quand j'ai fait mes modules cette fonctionnalité s'est cassée. 
@@ -249,34 +249,34 @@ J'ai ENFIN fini ma focused starting page que j'avais commencée avant l'école..
 **Progrès**: 
 * j'ai fait un petit traducteur des jours de la semaine avec Vue, en français-allemand-anglais.
 
-### Jour 31:  14 mai 2016
+### Jour 31:  14 mai 2018
 **Progrès**: 
 * Un panier de commande en vue, après avoir vu cela en react à l'école.
 
-### Jour 32:  16 mai 2016
+### Jour 32:  16 mai 2018
 
 **Progrès**:
 * React: révisions sur les props et les states en vue du hackathon
 
-### Jour 33  17 mai 2016
+### Jour 33  17 mai 2018
 
 **Progrès**:
 * hackathon: un site en react sur le thème Star wars + love
 J'apprends react router par la même occasion.
 
-### Jour 34:  18 mai 2016
+### Jour 34:  18 mai 2018
 
 **Progrès**:
 * hackathon: on paufine notre site, je fais quelques filter sur l'api. 
 
 ### 19 mai: repos.
 
-### Jour 35:  20 mai 2016
+### Jour 35:  20 mai 2018
 
 **Progrès**:
 * Vue communication entre le parent et l'enfant. Installation de storyboo pour vue.
 
-### Jour 36:  20 mai 2016
+### Jour 36:  20 mai 2018
 
 **Progrès**:
 * Vue communication entre enfants par le parent. 
