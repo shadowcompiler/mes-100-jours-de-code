@@ -106,7 +106,7 @@ Hier pas de code: repos sur ordre du médecin. j'ai une otite et je suis très f
 * Il me faudrait un petit projet d'assimilation en vuejs et un autre pour react.
 * C'est parfois difficile de trouver 1h de code en plus de l'école + des devoirs et de dormir suffisamment. Là je suis contente, je vais pouvoir me coucher tôt. J'aimerais bien trouver le temps pour finir mon article sur les 100jours de code aussi!!
 
-### Jour 12: 24 avril 2016
+### Jour 12: 24 avril 2018
 
 **Progrès**: 
 * un exercice sur les events et les event modifiers.
@@ -119,7 +119,7 @@ Hier pas de code: repos sur ordre du médecin. j'ai une otite et je suis très f
 **liens:**
 [exercice](https://gist.github.com/AurelieBayre/288ae61585da37171c3d02741c17bd8b) , [trello](https://trello.com/b/YtgktdY7/vuejs)
 
-### Jour 13: 25 avril 2016
+### Jour 13: 25 avril 2018
 
 **Progrès**: 
 * exercice Vue: propriétés réactive.
@@ -133,7 +133,7 @@ Hier pas de code: repos sur ordre du médecin. j'ai une otite et je suis très f
 [exercice](https://gist.github.com/AurelieBayre/35c4307fcb7b77a2d0859d99020ce004) 
 
 
-### Jour 14: 26 avril 2016
+### Jour 14: 26 avril 2018
 
 **Progrès**: 
 * J'ai adapté nos tables et fait une requête sqlite pour implémenter le système de vote.
@@ -148,7 +148,7 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 **lien:**
 [pr](https://github.com/WildCodeSchool/reims-0218-artezicreloaded/pull/38) 
 
-### Jour 15: 27 avril 2016
+### Jour 15: 27 avril 2018
 
 **Progrès**: 
 * J'ai fini la partie authentification. 
@@ -161,7 +161,7 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 **lien:**
 [mes derniers commits sur cette branche](https://github.com/WildCodeSchool/reims-0218-artezicreloaded/commits/user-can-vote) 
 
-### Jour 16: 28 avril 2016
+### Jour 16: 28 avril 2018
 
 **Progrès**: 
 * J'ai commencé à coder un pong avec un copain. On veut le faire en Vue mais on commence par faire un brouillon en pur javascript.
@@ -173,7 +173,7 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 **lien:**
 [branche paddle moves](https://github.com/AurelieBayre/pong-reloaded/tree/paddle-moves) 
 
-### Jour 17: 29 avril 2016
+### Jour 17: 29 avril 2018
 
 **Progrès**: 
 * Les fonctionnalités minimales du pong sont terminées, on peut jouer!
@@ -181,7 +181,7 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 **lien:**
 [Papi et Mira testent Pong](https://www.instagram.com/p/BiKl6sVhu_8/) 
  
-### Jour 18: 30 avril 2016
+### Jour 18: 30 avril 2018
 
 **Progrès**: 
 * J'ai commencé à refactorer le code du Pong et je l'ai rangé en modules ES6.
@@ -206,3 +206,79 @@ Il manque l'authentification - réalisée à plus de 50% - qui sera importante n
 
 **Pensées**
 * Visualiser les modules comme des étages m'a aidée à trouver la solution.
+
+### Jour 21 3 mai 2018
+**Progrès**: 
+Routing sur vue, un peu bloquée...
+
+4 mai: tellement fatiguée que je me suis endormie sur le canapé en rentrant... Mais ça y est c'est les vacances!
+
+### Jour 22 5 mai 2018
+**Progrès**: 
+Première fois que j'ai à la fois l'idée d'utiliser une récursion dans un kata ET que ça marche du premier coup!!!!
+
+### Jour 23 6 mai 2018
+**Progrès**: 
+Kata de répartition de billes par valeurs. Il me reste un test à régler.
+
+### Jour 24 7 mai 2018
+**Progrès**: 
+J'ai fini le test qui me manquait, mais ça casse pleins de tests random alors qu'avant la plupart des tests random marchaient...
+
+### Jour 25 8 mai 2018
+**Progrès**: 
+La frustration, c'est bon seulement à petites doses, donc je suis passées à d'autres katas.
+
+### Jour 26 9 mai 2018
+**Progrès**: 
+J'ai ENFIN fini ma focused starting page que j'avais commencée avant l'école...Le JSON m'a parlé dans mon sommeil et m'a inspiré la fin.
+
+### Jour 27 10 mai 2018
+**Progrès**: 
+* Brouillon d'un site pour mon groupe de méditation l'occasion de réessayer l'authentification Passort JWT, ça marche!
+
+### Jour 28 11 mai 2018
+**Progrès**: 
+* Peaufinage du site méditation, ajout de route et de tables dans la base de données.
+
+### Jour 29 12 mai 2018
+**Progrès**: 
+* Petit fight game en vue, un peu das le style de ce que'on avait fait au premier hackathon.
+
+### Jour 30 13 mai 2018
+**Progrès**: 
+* j'ai fait un petit traducteur des jours de la semaine avec Vue, en français-allemand-anglais.
+
+### Jour 31:  14 mai 2016
+**Progrès**: 
+* Un panier de commande en vue, après avoir vu cela en react à l'école.
+
+### Jour 32:  16 mai 2016
+
+**Progrès**:
+* React: révisions sur les props et les states en vue du hackathon
+
+### Jour 33  17 mai 2016
+
+**Progrès**:
+* hackathon: un site en react sur le thème Star wars + love
+J'apprends react router par la même occasion.
+
+### Jour 34:  18 mai 2016
+
+**Progrès**:
+* hackathon: on paufine notre site, je fais quelques filter sur l'api. 
+
+### 19 mai: repos.
+
+### Jour 35:  20 mai 2016
+
+**Progrès**:
+* Vue communication entre le parent et l'enfant. Installation de storyboo pour vue.
+
+### Jour 36:  20 mai 2016
+
+**Progrès**:
+* Vue communication entre enfants par le parent. 
+* Custom events. 
+* Rédaction de fiches composants et storybook pour mes accolytes de projets 3.
