@@ -276,9 +276,22 @@ J'apprends react router par la même occasion.
 **Progrès**:
 * Vue communication entre le parent et l'enfant. Installation de storyboo pour vue.
 
-### Jour 36:  20 mai 2018
+### Jour 36:  21 mai 2018
 
 **Progrès**:
 * Vue communication entre enfants par le parent. 
 * Custom events. 
 * Rédaction de fiches composants et storybook pour mes accolytes de projets 3.
+
+
+### Jour 37:  22 mai 2018
+
+**Progrès**:
+* configuration de vuetify et storybook
+* résolution du bug d'affichage des v-icon...il fallait importer la police toute simplement!
+
+### Jour 38:  23 mai 2018
+
+**Progrès**:
+* des petits katas codewars, parce que ça faisait longtemps! :)
+* lecture: vuex.
