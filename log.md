@@ -295,3 +295,26 @@ J'apprends react router par la même occasion.
 **Progrès**:
 * des petits katas codewars, parce que ça faisait longtemps! :)
 * lecture: vuex.
+
+### Jour 39:  24 mai 2018
+
+**Progrès**:
+ j'ai refait un exo de ce matin en le passant en prog fonctionnelle. j'ai réussi pour le résultat, mais je voulais surtout retrouver une manière de faire super classe que mon prof m'avait montrée il y a 2 mois, et là je ne l'ai pas retrouvée...
+
+### Jour 40:  25 mai 2018
+
+**Progrès**:
+J'ai "traduit" du code JQuery en vanilla javascript dans notre projet de chat socket.io) à la demande de la développeuse qui nous supervise.
+
+### Jour 41:  26 mai 2018
+
+**Progrès**:
+J'ai codé un petit snake multicolore que j'ai baptisé "discosnake"
+
+### Jour 42:  27 mai 2018
+
+**Progrès**:
+Traque inlassable d'un bug dans ma traduction, j'ai enfin trouvé, tout marche... J'y ai passé du temps, changé plein de trucs, fait plein de console.log et ce n'était au final qu'une typo.
+
+
+
